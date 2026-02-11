@@ -121,4 +121,4 @@ Made with 💻 by Md Salman Farsi
 
 Connect with me on 
 
-LinkedIn: | GitHub:
+LinkedIn:https://www.linkedin.com/in/md-salman-farsi-data-analyst | GitHub:https://github.com/mdsalmanfarsi692004-svg
