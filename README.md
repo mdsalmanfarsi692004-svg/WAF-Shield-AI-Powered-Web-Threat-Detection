@@ -11,7 +11,7 @@ https://waf-shield-ai-powered-web-threat-detection.streamlit.app/
 **📸 Project Visuals**
 
 **Main Dashboard**
-*<img width="1918" height="918" alt="Main Dashboard" src="https://github.com/user-attachments/assets/8083c2d2-6102-455f-b150-7b6e3486925d" />
+<img width="1918" height="918" alt="Main Dashboard" src="https://github.com/user-attachments/assets/8083c2d2-6102-455f-b150-7b6e3486925d" />
 
 **Safe Output**
 <img width="1893" height="913" alt="Safe" src="https://github.com/user-attachments/assets/3ea3b3cc-b917-4fbe-a549-42b0b0c335f9" />
