@@ -4,7 +4,7 @@ Traditional firewalls rely on static rules (signatures) which often fail against
 
 Using a trained Random Forest Classifier, it distinguishes between Benign (Safe) and Suspicious (DDoS/Exfiltration) traffic patterns instantly, providing Security Analysts with a modern dashboard for threat monitoring.
 
-Live App Link:
+**Live App Link:**
 
 https://waf-shield-ai-powered-web-threat-detection.streamlit.app/
 
