@@ -6,12 +6,14 @@ Using a trained Random Forest Classifier, it distinguishes between Benign (Safe)
 
 **📸 Project Visuals**
 
-**Main Dashboard**
-<img width="1910" height="927" alt="Main Dashboard" src="https://github.com/user-attachments/assets/ad144e55-ce3c-4439-8a66-7a9975447702" />
+*Main Dashboard**
+*<img width="1918" height="918" alt="Main Dashboard" src="https://github.com/user-attachments/assets/8083c2d2-6102-455f-b150-7b6e3486925d" />
+
 **Safe Output**
-<img width="1919" height="925" alt="SAFE" src="https://github.com/user-attachments/assets/6d9a1ef0-589c-47da-b4f5-0df697372852" />
+<img width="1893" height="913" alt="Safe" src="https://github.com/user-attachments/assets/3ea3b3cc-b917-4fbe-a549-42b0b0c335f9" />
+
 **Threat Output**
-<img width="1919" height="926" alt="THREAT" src="https://github.com/user-attachments/assets/ca79e79a-86e1-4167-905f-f27e71b70b6e" />
+<img width="1894" height="915" alt="Threat" src="https://github.com/user-attachments/assets/2f5078a7-72c8-4161-a269-594a12e09dc7" />
 
 **🌟 Key Features**
 
