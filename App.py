@@ -151,7 +151,7 @@ with st.sidebar:
     """, unsafe_allow_html=True)
 
 # --- Main Layout ---
-st.markdown('<div class="main-header">🛡️ Network Traffic Analysis Console</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header">🛡️ Network Traffic Analysis Console 🛡️</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">Real-time Anomaly Detection System (WAF Engine)</div>', unsafe_allow_html=True)
 
 # --- Input Section ---
@@ -333,3 +333,4 @@ if st.session_state['scan_done'] and st.session_state['result']:
                  2.  **Log Event:** Record Transaction For Auditing.
                  3.  **No Action Required:** Continue Routine Monitoring.
                  """)
+
