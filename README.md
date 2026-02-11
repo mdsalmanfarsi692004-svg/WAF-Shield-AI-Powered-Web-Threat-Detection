@@ -60,8 +60,11 @@ Dataset,AWS CloudWatch Logs (40k+ records)
 We compared multiple algorithms to find the best balance between speed and accuracy:
 
 Algorithm	          Accuracy	      Precision	Status
+
 Random Forest	      98.4%	High	    ✅ Selected
+
 XGBoost	            97.8%	High	    ⚠️ Backup
+
 Logistic Regression	89.2%	Medium	  ❌ Rejected
 
 The Random Forest model was chosen for its robustness against overfitting on tabular log data.
